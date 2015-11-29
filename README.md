@@ -6,9 +6,9 @@ A one-function clojure lib that provides (map-values).
 
 ## Dependency Information
 
-[![Clojars Project](http://clojars.org/map-values/latest-version.svg)](http://clojars.org/map-values)
+[![Clojars Project](http://clojars.org/handy/map-values/latest-version.svg)](http://clojars.org/handy/map-values)
 
-The latest version and information on how to install it is available from [clojars](http://clojars.org/map-values).
+The latest version and information on how to install it is available from [clojars](http://clojars.org/handy/map-values).
 
 ## Usage
 
