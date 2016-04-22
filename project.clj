@@ -2,4 +2,4 @@
   :description "A one-function clojure lib that provides (map-values)"
   :url "https://github.com/glenjamin/map-values"
   :license {:name "MIT" :url "https://opensource.org/licenses/MIT"}
-  :dependencies [[org.clojure/clojure "1.7.0"]])
+  :profiles {:provided {:dependencies [[org.clojure/clojure "1.8.0"]]}})
